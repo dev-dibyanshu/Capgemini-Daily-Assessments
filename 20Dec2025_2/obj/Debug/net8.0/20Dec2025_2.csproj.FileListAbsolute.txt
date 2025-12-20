@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/bin/Debug/net8.0/20Dec2025_2
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/bin/Debug/net8.0/20Dec2025_2.deps.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/bin/Debug/net8.0/20Dec2025_2.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/bin/Debug/net8.0/20Dec2025_2.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/bin/Debug/net8.0/20Dec2025_2.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/refint/20Dec2025_2.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/20Dec2025_2.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025_2/obj/Debug/net8.0/ref/20Dec2025_2.dll

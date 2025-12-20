@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/bin/Debug/net8.0/20Dec2025
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/bin/Debug/net8.0/20Dec2025.deps.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/bin/Debug/net8.0/20Dec2025.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/bin/Debug/net8.0/20Dec2025.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/bin/Debug/net8.0/20Dec2025.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/refint/20Dec2025.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/20Dec2025.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/20Dec2025/obj/Debug/net8.0/ref/20Dec2025.dll
