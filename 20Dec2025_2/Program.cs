@@ -1,10 +1,10 @@
 ﻿using System;
-
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== C# Programming Exercises ===\n");
+        Console.WriteLine("=== C# Programming Exercises ===");
+        Console.WriteLine();
         
         Console.WriteLine("1. Leap Year Checker:");
         LeapYear.Run();
