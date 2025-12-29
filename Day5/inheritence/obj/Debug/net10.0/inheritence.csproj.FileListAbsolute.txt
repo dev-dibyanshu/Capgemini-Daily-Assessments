@@ -1,0 +1,15 @@
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.AssemblyInfoInputs.cache
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.AssemblyInfo.cs
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.sourcelink.json
+C:\Users\nites\dotanet\Day5\inheritence\bin\Debug\net10.0\inheritence.exe
+C:\Users\nites\dotanet\Day5\inheritence\bin\Debug\net10.0\inheritence.deps.json
+C:\Users\nites\dotanet\Day5\inheritence\bin\Debug\net10.0\inheritence.runtimeconfig.json
+C:\Users\nites\dotanet\Day5\inheritence\bin\Debug\net10.0\inheritence.dll
+C:\Users\nites\dotanet\Day5\inheritence\bin\Debug\net10.0\inheritence.pdb
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.dll
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\refint\inheritence.dll
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.pdb
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\inheritence.genruntimeconfig.cache
+C:\Users\nites\dotanet\Day5\inheritence\obj\Debug\net10.0\ref\inheritence.dll

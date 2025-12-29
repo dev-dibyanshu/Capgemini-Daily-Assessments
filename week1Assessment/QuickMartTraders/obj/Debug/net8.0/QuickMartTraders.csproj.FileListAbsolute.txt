@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/bin/Debug/net8.0/QuickMartTraders
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/bin/Debug/net8.0/QuickMartTraders.deps.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/bin/Debug/net8.0/QuickMartTraders.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/bin/Debug/net8.0/QuickMartTraders.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/bin/Debug/net8.0/QuickMartTraders.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/refint/QuickMartTraders.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/QuickMartTraders.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/QuickMartTraders/obj/Debug/net8.0/ref/QuickMartTraders.dll

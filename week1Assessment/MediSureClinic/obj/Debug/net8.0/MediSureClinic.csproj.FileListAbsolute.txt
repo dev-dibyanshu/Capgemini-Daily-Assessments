@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/bin/Debug/net8.0/MediSureClinic
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/bin/Debug/net8.0/MediSureClinic.deps.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/bin/Debug/net8.0/MediSureClinic.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/bin/Debug/net8.0/MediSureClinic.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/bin/Debug/net8.0/MediSureClinic.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/refint/MediSureClinic.dll
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.pdb
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/MediSureClinic.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/dotNet/week1Assessment/MediSureClinic/obj/Debug/net8.0/ref/MediSureClinic.dll

@@ -1,70 +1,28 @@
 ﻿using System;
+
 class Program
 {
-  public static void Main(string[] args)
-  {
-    int[] arr;
-
-    Console.Write("Enter number of elements: ");
-    int n;
-    while (!int.TryParse(Console.ReadLine(), out n) || n < 1)
+    static void Main(string[] args)
     {
-      Console.Write("Invalid input. Enter a positive integer: ");
+        Console.WriteLine("Question 1:");
+        Question1.Run();
+        Console.WriteLine("\nQuestion 2:");
+        Question2.Run();
+        Console.WriteLine("\nQuestion 3:");
+        Question3.Run();
+        Console.WriteLine("\nQuestion 4:");
+        Question4.Run();
+        Console.WriteLine("\nQuestion 5:");
+        Question5.Run();
+        Console.WriteLine("\nQuestion 6:");
+        Question6.Run();
+        Console.WriteLine("\nQuestion 7:");
+        Question7.Run();
+        Console.WriteLine("\nQuestion 8:");
+        Question8.Run();
+        Console.WriteLine("\nQuestion 9:");
+        Question9.Run();
+        Console.WriteLine("\nQuestion 10:");
+        Question10.Run();
     }
-
-    arr = new int[n];
-
-    for (int i = 0; i < n; i++)
-    {
-      Console.Write($"Enter element {i}: ");
-      while (!int.TryParse(Console.ReadLine(), out arr[i]))
-      {
-        Console.Write("Invalid integer. Enter again: ");
-      }
-    }
-
-    Console.WriteLine("Array elements:");
-    for (int i = 0; i < arr.Length; i++)
-    {
-      Console.WriteLine($"arr[{i}] = {arr[i]}");
-    }
-
-
-    Console.Write("Enter number of characters: ");
-    int m;
-    while (!int.TryParse(Console.ReadLine(), out m) || m < 1)
-    {
-      Console.Write("Invalid input. Enter a positive integer: ");
-    }
-
-    char[] carr = new char[m];
-    for (int i = 0; i < m; i++)
-    {
-      Console.Write($"Enter character {i}: ");
-      string s = Console.ReadLine();
-      while (string.IsNullOrEmpty(s) || s.Length != 1)
-      {
-        Console.Write("Invalid input. Enter a single character: ");
-        s = Console.ReadLine();
-      }
-      carr[i] = s[0];
-    }
-
-    Console.WriteLine("Character array elements:");
-    for (int i = 0; i < carr.Length; i++)
-    {
-      Console.WriteLine($"carr[{i}] = {carr[i]}");
-    }
-
-    int total = Sum(arr);
-    Console.WriteLine($"Sum of integer array elements: {total}");
-  }
-
-  public static int Sum(int[] a)
-  {
-    int s = 0;
-    foreach (int v in a)
-      s += v;
-    return s;
-  }
 }
